@@ -5,18 +5,17 @@ I specialize in identifying security gaps, simulating attacks, and building defe
 
 Driven to secure applications, networks, and users against modern attack vectors.
 
-📬 Let’s Connect: [LinkedIn](https://www.linkedin.com/in/shreyas-m-s-cyber) | [Email](mailto:shreyasvaishnav40@gmail.com)
+📬 Let’s Connect: [LinkedIn](www.linkedin.com/in/archana-tn-cyber) | [Email](mailto:archanatn26@gmail.com)
 
 ## 🛡️ Cybersecurity Experience
 
 🔐 Security-Focused Project Development  
-- Engineered *404 Intelligence*, an AI-driven cybersecurity awareness platform that educates users through interactive roasting-based simulations of phishing and social engineering attacks.  
-- Designed and implemented a *Secure File Vault* using encryption techniques and access control mechanisms.  
+  -Developed Cyber Attack Prediction & Prevention System (CAPPS), a real-time threat detection platform using ensemble machine learning        (Random Forest, Gradient Boosting, Neural Network) to predict cyber attacks before execution with 93% accuracy.
+  -Built AI-Based Cyber Attack Detection System that monitors network traffic, identifies anomalies, and generates automated alerts for         DDoS, Malware, Phishing, Ransomware, and Port Scan attacks.
 
-🧪 Security Analysis & Testing  
-- Conducted vulnerability assessments and basic penetration testing practices in controlled environments.  
-- Utilized tools such as Nmap and Wireshark for network scanning and traffic analysis.  
-- Studied and applied OWASP Top 10 principles to identify and mitigate common web vulnerabilities.  
+💡 INNOVATION & CREATIVE PROJECTS
+  -Engineered Idea Generator Pro, an AI-powered creative thinking platform that generates innovative project ideas, startup concepts, and      problem-solving solutions across multiple domains.
+  -Implemented multi-category idea generation covering Technology, Business, Social Impact, Education, Healthcare, Environment, and            Entertainment sectors.
 
 ⚙️ Practical Security Implementation  
 - Integrated authentication systems, password security mechanisms, and basic multi-factor authentication concepts in projects.  
@@ -55,16 +54,8 @@ Hashing Algorithms, Encryption Techniques, Password Security, Multi-Factor Authe
 MySQL, MongoDB (Access Control & Basic Hardening)
 
 🚀 Applied Projects:
-404 Intelligence – AI-Powered Cybersecurity Awareness Platform (utilizes interactive roasting techniques to simulate phishing attacks and educate users on real-world cyber threats), 
-Secure File Vault – Encryption-Based Data Protection Systems
-
-
-
-## 📜 Certifications
-
-- Introduction to AI/ML – Google [View](https://drive.google.com/)
-- Junior Cybersecurity Analyst – Cisco [View](https://www.credly.com/)
-- DevOps from Zero to Hero – MindLuster [View](https://www.mindluster.com/)
+  Cyber Attack Prediction & Prevention System (CAPPS): a real-time threat detection platform using ensemble machine learning to predict        cyber attacks before execution with 93% accuracy.
+  Idea Generator Pro :  AI-powered creative thinking platform that generates innovative project ideas, startup concepts, and      problem-     solving solutions across multiple domains.
 
 ## 📊 GitHub Stats
 
