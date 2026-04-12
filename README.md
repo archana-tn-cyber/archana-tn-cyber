@@ -57,6 +57,13 @@ MySQL, MongoDB (Access Control & Basic Hardening)
   Cyber Attack Prediction & Prevention System (CAPPS): a real-time threat detection platform using ensemble machine learning to predict        cyber attacks before execution with 93% accuracy.
   Idea Generator Pro :  AI-powered creative thinking platform that generates innovative project ideas, startup concepts, and      problem-     solving solutions across multiple domains.
 
+  ## 🪪 Certifications
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <span><b>Junior Cybersecurity Analyst – Cisco</b></span>
+  <span><a>View Certificate</a></span>
+</div>
+
 ## 📊 GitHub Stats
 
 <p align="center">
