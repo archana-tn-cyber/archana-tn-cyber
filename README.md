@@ -8,7 +8,7 @@ I design and build practical cybersecurity solutions that replicate real-world S
 
 Driven to continuously improve detection accuracy, reduce response time, and strengthen security posture through intelligent monitoring and adversary-aware defense systems.
 
-📬 Let’s Connect: [LinkedIn](www.linkedin.com/in/archana-tn-cyber) | [Email](mailto:archanatn26@gmail.com)
+📬 Let’s Connect: [LinkedIn](https://www.linkedin.com/in/archana-tn-cyber)| [Email](mailto:archanatn26@gmail.com)
 
 ## 🛡️ Cybersecurity Experience
 
