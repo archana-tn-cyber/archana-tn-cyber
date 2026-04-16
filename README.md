@@ -1,9 +1,12 @@
 💫 About Me
 
-Cybersecurity Analyst | Ethical Defense | Security Engineering Enthusiast
-I specialize in identifying security gaps, simulating attacks, and building defense mechanisms to protect systems from evolving cyber threats. I focus on creating real-world cybersecurity projects that combine awareness, detection, and prevention.
+Cyber Security Analyst | SOC Operations | Threat Detection Engineering | SIEM & Log Analysis | Incident Response | Adversary Simulation | System Thinker | Security Mindset
 
-Driven to secure applications, networks, and users against modern attack vectors.
+I specialize in analyzing system and network telemetry to identify indicators of compromise, simulate adversarial behavior, and engineer detection-driven defense mechanisms against evolving cyber threats. My work focuses on bridging offensive security techniques with defensive monitoring to enhance real-time threat visibility and response.
+
+I design and build practical cybersecurity solutions that replicate real-world SOC environments, integrating threat detection logic, log analysis, and proactive defense strategies to secure applications, networks, and users.
+
+Driven to continuously improve detection accuracy, reduce response time, and strengthen security posture through intelligent monitoring and adversary-aware defense systems.
 
 📬 Let’s Connect: [LinkedIn](www.linkedin.com/in/archana-tn-cyber) | [Email](mailto:archanatn26@gmail.com)
 
