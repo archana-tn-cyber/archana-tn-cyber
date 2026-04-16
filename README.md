@@ -58,11 +58,15 @@ MySQL, MongoDB (Access Control & Basic Hardening)
   Idea Generator Pro :  AI-powered creative thinking platform that generates innovative project ideas, startup concepts, and      problem-     solving solutions across multiple domains.
 
   ## 🪪 Certifications
+  <p>
+  <b>Junior Cybersecurity Analyst – Cisco</b>
+  <span style="float:right;">
+    <a href="https://drive.google.com/file/d/1FlsFZ34NKbcSpk4LDRZEkY1-STXCAezD/view?usp=drivesdk">View Certificate</a>
+  </span>
+</p>
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <span><b>Junior Cybersecurity Analyst – Cisco</b></span>
-  <span><a>View Certificate</a></span>
-</div>
+
+## 📊 GitHub Intelligence Dashboard
 <p align="center">
   <table>
     <tr>
