@@ -26,31 +26,31 @@ Driven to secure applications, networks, and users against modern attack vectors
 
 ## 🛠️ Technical Arsenal
 
-🔐 Cybersecurity Expertise:
-Threat Modeling, Vulnerability Assessment, Penetration Testing (Basics), Incident Response, Security Awareness Engineering
+🔐 *Cybersecurity Expertise*  
+Threat Modeling, Vulnerability Assessment, Penetration Testing (Foundational), Incident Response, Security Awareness Engineering, Detection Strategy Development
 
-💻 Programming & Automation:
-Python (Security Tools Development), JavaScript, Bash Scripting, C/C++
+💻 *Programming & Automation*  
+Python (Security Tools Development), JavaScript, Bash Scripting, C/C++  
 
-🌐 Web Security:
-OWASP Top 10, XSS, SQL Injection, CSRF, Authentication Bypass, Secure API Design
+🌐 *Web Security*  
+OWASP Top 10, XSS, SQL Injection, CSRF, Authentication Bypass, Secure API Design  
 
-🛠️ Security Tools & Frameworks:
-Nmap, Wireshark, Burp Suite, Metasploit, SQLmap, Nikto, Hydra, John the Ripper
+🛠️ *Security Tools & Frameworks*  
+Nmap, Wireshark, Burp Suite, Metasploit, SQLmap, Nikto, Hydra, John the Ripper  
 
-🖥️ Platforms & Environments:
-Kali Linux, Ubuntu, Windows
+🖥️ *Platforms & Environments*  
+Kali Linux, Ubuntu, Windows  
 
-☁️ Cloud & DevSecOps:
-AWS (EC2 Basics), Docker, Git/GitHub, CI/CD Security Fundamentals
+☁️ *Cloud & DevSecOps*  
+AWS (EC2 Basics), Docker, Git/GitHub, CI/CD Security Concepts 
 
-🧪 Security Operations:
-Log Analysis, Network Monitoring, Threat Detection, Basic SIEM Concepts
+🧪 *Security Operations*  
+Log Analysis, Threat Detection, Security Monitoring, Incident Response, SIEM Fundamentals, Alert Triage, Event Correlation
 
-🔑 Cryptography:
-Hashing Algorithms, Encryption Techniques, Password Security, Multi-Factor Authentication (MFA)
+🔑 *Cryptography*  
+Hashing Algorithms, Encryption Techniques, Password Security, Multi-Factor Authentication (MFA)  
 
-📊 Database Security:
+📊 *Database Security*  
 MySQL, MongoDB (Access Control & Basic Hardening)
 
 🚀 Applied Projects:
