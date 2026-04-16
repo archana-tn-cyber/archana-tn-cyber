@@ -63,9 +63,26 @@ MySQL, MongoDB (Access Control & Basic Hardening)
   <span><b>Junior Cybersecurity Analyst – Cisco</b></span>
   <span><a>View Certificate</a></span>
 </div>
-
-## 📊 GitHub Stats
+## 📊 GitHub Intelligence Dashboard
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-ms-cyber&theme=highcontrast&hide_border=true" />
+  <table>
+    <tr>
+      <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;" colspan="2">
+        <img src="https://streak-stats.demolab.com?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=shreyas-ms-cyber&show_icons=true&theme=github_dark&hide_border=true" />
+      </td>
+      <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-ms-cyber&layout=compact&theme=github_dark&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true" width="100%"/>
 </p>
