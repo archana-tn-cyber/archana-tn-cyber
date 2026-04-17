@@ -69,8 +69,8 @@ Hashing Algorithms, Encryption Techniques, Password Security, Multi-Factor Authe
 MySQL, MongoDB (Access Control & Basic Hardening)
 
 
-🚀 Applied Projects:
-  Cyber Attack Prediction & Prevention System (CAPPS): a real-time threat detection platform using ensemble machine learning to predict        cyber attacks before execution with 93% accuracy.
+🚀 **Applied Projects:**
+ Cyber Attack Prediction & Prevention System (CAPPS): a real-time threat detection platform using ensemble machine learning to predict        cyber attacks before execution with 93% accuracy.
   Idea Generator Pro :  AI-powered creative thinking platform that generates innovative project ideas, startup concepts, and      problem-     solving solutions across multiple domains.
 
   ## 🪪 Certifications
