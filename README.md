@@ -20,6 +20,11 @@ Driven to continuously improve detection accuracy, reduce response time, and str
   -Engineered Idea Generator Pro, an AI-powered creative thinking platform that generates innovative project ideas, startup concepts, and      problem-solving solutions across multiple domains.
   -Implemented multi-category idea generation covering Technology, Business, Social Impact, Education, Healthcare, Environment, and            Entertainment sectors.
 
+  🧪 Security Analysis & Testing  
+- Analyzed application behavior to identify security weaknesses and potential exploitation points during development.  
+- Simulated real-world attack scenarios to understand detection gaps and improve defensive strategies.  
+- Applied secure coding practices and validation mechanisms to minimize exposure to common web-based vulnerabilities.
+
   
  ⚙️ Practical Security Implementation  
 - Implemented authentication workflows, password security mechanisms, and multi-factor authentication concepts in security-focused applications.  
