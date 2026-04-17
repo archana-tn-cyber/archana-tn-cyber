@@ -21,7 +21,7 @@ Driven to continuously improve detection accuracy, reduce response time, and str
   -Implemented multi-category idea generation covering Technology, Business, Social Impact, Education, Healthcare, Environment, and            Entertainment sectors.
 
   
-  ## 🛠️ ⚙️ Practical Security Implementation  
+ ⚙️ Practical Security Implementation  
 - Implemented authentication workflows, password security mechanisms, and multi-factor authentication concepts in security-focused applications.  
 - Integrated defensive security practices into development workflows to enhance system resilience.
 - Designing detection logic for identifying brute-force attacks, suspicious authentication behavior, and anomalous network activity  
