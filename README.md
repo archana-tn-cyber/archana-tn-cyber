@@ -20,14 +20,19 @@ Driven to continuously improve detection accuracy, reduce response time, and str
   -Engineered Idea Generator Pro, an AI-powered creative thinking platform that generates innovative project ideas, startup concepts, and      problem-solving solutions across multiple domains.
   -Implemented multi-category idea generation covering Technology, Business, Social Impact, Education, Healthcare, Environment, and            Entertainment sectors.
 
-⚙️ Practical Security Implementation  
-- Integrated authentication systems, password security mechanisms, and basic multi-factor authentication concepts in projects.  
+  
+  ## 🛠️ ⚙️ Practical Security Implementation  
+- Implemented authentication workflows, password security mechanisms, and multi-factor authentication concepts in security-focused applications.  
+- Integrated defensive security practices into development workflows to enhance system resilience.
+- Designing detection logic for identifying brute-force attacks, suspicious authentication behavior, and anomalous network activity  
+- Mapping attacker techniques to detection strategies based on real-world threat scenarios  
+- Working toward implementing SIEM-based log monitoring, alerting pipelines, and event correlation mechanisms  
+- Focused on reducing false positives and improving detection accuracy through behavioral analysis
+
 
 📚 Continuous Skill Development  
-- Actively learning advanced cybersecurity concepts including threat detection, SIEM basics, and incident response strategies.
-
-
-## 🛠️ Technical Arsenal
+- Actively advancing expertise in Threat Detection, SIEM Engineering, and Incident Response methodologies  
+- Developing deeper understanding of log correlation, attack pattern recognition, and SOC operations workflowsTechnical Arsenal
 
 🔐 *Cybersecurity Expertise*  
 Threat Modeling, Vulnerability Assessment, Penetration Testing (Foundational), Incident Response, Security Awareness Engineering, Detection Strategy Development
