@@ -87,20 +87,19 @@ MySQL, MongoDB (Access Control & Basic Hardening)
   <table>
     <tr>
       <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;" colspan="2">
-        <img src="https://streak-stats.demolab.com?user=archana-tn-cyber&theme=github-dark-blue&hide_border=true" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=archana-tn-cyber&theme=github-dark-blue&hide_border=true&count_private=true&cache_seconds=1800" width="100%" />
       </td>
     </tr>
     <tr>
       <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=archana-tn-cyber&show_icons=true&theme=github_dark&hide_border=true" />
+        <img src="https://github-stats-alpha.vercel.app/api?username=archana-tn-cyber&cc=000&tc=fff&ic=2f81f7&bc=000&include_all_commits=true&count_private=true&cache_seconds=1800" />
       </td>
       <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archana-tn-cyber&layout=compact&theme=github_dark&hide_border=true" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=archana-tn-cyber&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
       </td>
     </tr>
   </table>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archana-tn-cyber&theme=github-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archana-tn-cyber&theme=github-dark&hide_border=true&area=true&cache_seconds=1800" width="100%"/>
 </p>
